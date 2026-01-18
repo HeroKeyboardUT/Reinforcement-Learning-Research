@@ -239,17 +239,10 @@ DATH/
 ├── 📄 grid.py              # Project 1: Q-Learning GridWorld
 ├── 📄 README.md            # File hướng dẫn này
 ├── 📁 Report/
-│   ├── 📄 main.tex         # Báo cáo LaTeX chính
-│   ├── 📄 main.pdf         # Báo cáo PDF đã biên dịch
-│   ├── 📄 references.bib   # Tài liệu tham khảo
-│   └── 📁 images/          # Hình ảnh minh họa
-│       ├── grid_world.png
-│       ├── q_table.png
-│       ├── bipedal.png
-│       └── training_curve.png
-└── 📁 BipedalWalker/       # Project 2 (nếu có)
-    ├── train.py
-    └── models/
+    ├── 📄 main.tex         # Báo cáo LaTeX chính
+    ├── 📄 main.pdf         # Báo cáo PDF đã biên dịch
+    ├── 📄 references.bib   # Tài liệu tham khảo
+
 ```
 
 ---
