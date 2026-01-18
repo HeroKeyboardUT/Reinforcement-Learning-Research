@@ -1,8 +1,31 @@
-.aux
-.bib
-.log
-.out
-.toc
-.xml
-.blg
-.bbl
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.xml
+*.bcf
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
