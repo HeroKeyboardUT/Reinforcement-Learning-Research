@@ -43,5 +43,7 @@
 \contentsline {subsection}{\numberline {6.1}Những thách thức cốt lõi (Key Challenges) \blx@tocontentsinit {0}\cite {datarootlabs_rl_state} \blx@tocontentsinit {0}\cite {milvus_rl_limitations}}{34}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Xu hướng và Định hướng phát triển (Future Directions) \blx@tocontentsinit {0}\cite {artiba_rl_future}}{35}{subsection.6.2}%
 \contentsline {section}{\numberline {7}Kết luận}{35}{section.7}%
-\contentsline {section}{\numberline {A}Code đầy đủ project}{36}{appendix.A}%
+\contentsline {section}{\numberline {A}Mã nguồn và Tài nguyên Thực nghiệm}{36}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Project 1: Grid World Environment}{36}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Project 2: BipedalWalker-v3 (Continuous Control)}{36}{subsection.A.2}%
 \contentsline {section}{\numberline {B}Tài liệu tham khảo}{36}{appendix.B}%

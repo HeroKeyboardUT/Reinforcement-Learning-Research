@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.25)  14 DEC 2025 16:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.25)  14 DEC 2025 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1821,7 +1821,7 @@ Package hyperref Info: Link coloring ON on input line 134.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-<hcmut.jpg, id=194, 448.67625pt x 444.15938pt>
+<hcmut.jpg, id=202, 448.67625pt x 444.15938pt>
 File: hcmut.jpg Graphic file (type jpg)
 <use hcmut.jpg>
 Package pdftex.def Info: hcmut.jpg  used on input line 151.
@@ -1888,7 +1888,7 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 189.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
  [2]
-<1.png, id=282, 1027.84pt x 770.88pt>
+<1.png, id=296, 1027.84pt x 770.88pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 197.
@@ -1903,7 +1903,7 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 211.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
 [3 <./1.png (PNG copy)>]
-<2.png, id=293, 1606.0pt x 1104.125pt>
+<2.png, id=307, 1606.0pt x 1104.125pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
 Package pdftex.def Info: 2.png  used on input line 242.
@@ -1918,7 +1918,7 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 265.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
  [5 <./2.png (PNG copy)>]
-<5.png, id=321, 1405.25pt x 840.13875pt>
+<5.png, id=335, 1405.25pt x 840.13875pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
 Package pdftex.def Info: 5.png  used on input line 295.
@@ -1939,7 +1939,7 @@ Package pdftex.def Info: hcmut.jpg  used on input line 350.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
 
 [8]
-<3.png, id=352, 853.1875pt x 264.99pt>
+<3.png, id=366, 853.1875pt x 264.99pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
 Package pdftex.def Info: 3.png  used on input line 411.
@@ -1992,7 +1992,7 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 740.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
 [15]
-<walker1.png, id=417, 1284.8pt x 722.7pt>
+<walker1.png, id=431, 1284.8pt x 722.7pt>
 File: walker1.png Graphic file (type png)
 <use walker1.png>
 Package pdftex.def Info: walker1.png  used on input line 772.
@@ -2006,7 +2006,7 @@ Package pdftex.def Info: hcmut.jpg  used on input line 776.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 795.
 
-<PPO.png, id=428, 853.1875pt x 392.46625pt>
+<PPO.png, id=442, 853.1875pt x 392.46625pt>
 File: PPO.png Graphic file (type png)
 <use PPO.png>
 Package pdftex.def Info: PPO.png  used on input line 800.
@@ -2039,7 +2039,7 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 886.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
 [19]
-<walker.png, id=456, 1204.5pt x 436.63126pt>
+<walker.png, id=468, 1204.5pt x 436.63126pt>
 File: walker.png Graphic file (type png)
 <use walker.png>
 Package pdftex.def Info: walker.png  used on input line 916.
@@ -2054,7 +2054,7 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 974.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
  [21]
-<plot_reward.png, id=472, 1107.13625pt x 600.2425pt>
+<plot_reward.png, id=484, 1107.13625pt x 600.2425pt>
 File: plot_reward.png Graphic file (type png)
 <use plot_reward.png>
 Package pdftex.def Info: plot_reward.png  used on input line 982.
@@ -2064,12 +2064,12 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 1003.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
  [22 <./plot_reward.png (PNG copy)>]
-<W1.png, id=479, 450.483pt x 296.90926pt>
+<W1.png, id=491, 450.483pt x 296.90926pt>
 File: W1.png Graphic file (type png)
 <use W1.png>
 Package pdftex.def Info: W1.png  used on input line 1007.
 (pdftex.def)             Requested size: 313.69025pt x 206.75227pt.
-<W4.png, id=480, 563.10374pt x 369.63094pt>
+<W4.png, id=492, 563.10374pt x 369.63094pt>
 File: W4.png Graphic file (type png)
 <use W4.png>
 Package pdftex.def Info: W4.png  used on input line 1012.
@@ -2085,12 +2085,12 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 1063.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
  [24]
-<W2.png, id=497, 475.7775pt x 295.85532pt>
+<W2.png, id=509, 475.7775pt x 295.85532pt>
 File: W2.png Graphic file (type png)
 <use W2.png>
 Package pdftex.def Info: W2.png  used on input line 1102.
 (pdftex.def)             Requested size: 313.69025pt x 195.07098pt.
-<W3.png, id=498, 475.02469pt x 302.63063pt>
+<W3.png, id=510, 475.02469pt x 302.63063pt>
 File: W3.png Graphic file (type png)
 <use W3.png>
 Package pdftex.def Info: W3.png  used on input line 1106.
@@ -2109,7 +2109,7 @@ Package pdftex.def Info: hcmut.jpg  used on input line 1115.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 1130.
 
-<RLHF.png, id=519, 931.98187pt x 575.90157pt>
+<RLHF.png, id=531, 931.98187pt x 575.90157pt>
 File: RLHF.png Graphic file (type png)
 <use RLHF.png>
 Package pdftex.def Info: RLHF.png  used on input line 1135.
@@ -2133,7 +2133,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1165--1166
 
  []
 
-<Deepseek.png, id=536, 1005.7575pt x 586.44093pt>
+<Deepseek.png, id=548, 1005.7575pt x 586.44093pt>
 File: Deepseek.png Graphic file (type png)
 <use Deepseek.png>
 Package pdftex.def Info: Deepseek.png  used on input line 1169.
@@ -2147,7 +2147,7 @@ Package pdftex.def Info: hcmut.jpg  used on input line 1173.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 1179.
 
-<DreamerV3.png, id=545, 1383.66937pt x 560.8453pt>
+<DreamerV3.png, id=557, 1383.66937pt x 560.8453pt>
 File: DreamerV3.png Graphic file (type png)
 <use DreamerV3.png>
 Package pdftex.def Info: DreamerV3.png  used on input line 1185.
@@ -2162,7 +2162,7 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 1209.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
  [31 <./DreamerV3.png>]
-<4.png, id=559, 946.28531pt x 572.1375pt>
+<4.png, id=571, 946.28531pt x 572.1375pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
 Package pdftex.def Info: 4.png  used on input line 1221.
@@ -2218,7 +2218,7 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 1290.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
 [34]
-<6.png, id=582, 264.5082pt x 125.38844pt>
+<6.png, id=594, 264.5082pt x 125.38844pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
 Package pdftex.def Info: 6.png  used on input line 1301.
@@ -2228,7 +2228,7 @@ File: hcmut.jpg Graphic file (type jpg)
 Package pdftex.def Info: hcmut.jpg  used on input line 1312.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
  [35 <./6.png>]
-Overfull \hbox (17.2989pt too wide) in paragraph at lines 1320--1320
+Overfull \hbox (17.2989pt too wide) in paragraph at lines 1345--1345
 []\T5/cmr/m/n/10 The Ed-i-tors of En-cy-clopae-dia Bri-tan-nica, \T5/cmr/m/it/1
 0 Thorndike's law of ef-fect\T5/cmr/m/n/10 , [][]$\T5/cmtt/m/n/10 https : / / w
 ww . britannica .
@@ -2236,13 +2236,13 @@ ww . britannica .
 
 File: hcmut.jpg Graphic file (type jpg)
 <use hcmut.jpg>
-Package pdftex.def Info: hcmut.jpg  used on input line 1319.
+Package pdftex.def Info: hcmut.jpg  used on input line 1344.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
 [36] 
 AED: lastpage setting LastPage
 File: hcmut.jpg Graphic file (type jpg)
 <use hcmut.jpg>
-Package pdftex.def Info: hcmut.jpg  used on input line 1321.
+Package pdftex.def Info: hcmut.jpg  used on input line 1346.
 (pdftex.def)             Requested size: 28.44612pt x 28.45117pt.
 [37] (main.aux)
  ***********
@@ -2253,14 +2253,8 @@ L3 programming layer <2024-01-04>
 
 LaTeX Warning: There were undefined references.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 8DA988322D3B80E10A0544ADCD5A2FBF;16073
-(rerunfilecheck)             After:  EC811215E438812AB9627711DEC5ACFE;16388.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 8D88DE9D465EAE612F7AE7E41DA814ED;17034.
 
 Package biblatex Warning: Please (re)run BibTeX on the file(s):
 (biblatex)                main
@@ -2271,13 +2265,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47621 strings out of 474486
- 979342 string characters out of 5744226
+ 47628 strings out of 474486
+ 979494 string characters out of 5744226
  1948542 words of memory out of 5000000
- 69023 multiletter control sequences out of 15000+600000
+ 69026 multiletter control sequences out of 15000+600000
  576111 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,25n,87p,2504b,1679s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,25n,87p,2504b,1687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mbx10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmex10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -2298,9 +2292,9 @@ b><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><
 C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C
 :/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:
 /Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
-Output written on main.pdf (38 pages, 5064681 bytes).
+Output written on main.pdf (38 pages, 5068990 bytes).
 PDF statistics:
- 744 PDF objects out of 1000 (max. 8388607)
- 172 named destinations out of 1000 (max. 500000)
- 479 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 762 PDF objects out of 1000 (max. 8388607)
+ 176 named destinations out of 1000 (max. 500000)
+ 495 words of extra memory for PDF output out of 10000 (max. 10000000)
 
