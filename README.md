@@ -251,14 +251,6 @@ DATH/
 
 1. Sutton, R. S., & Barto, A. G. (2018). _Reinforcement Learning: An Introduction_ (2nd ed.). MIT Press.
 
-2. Watkins, C. J. C. H., & Dayan, P. (1992). Q-learning. _Machine Learning_, 8(3-4), 279-292.
-
-3. Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). _Proximal Policy Optimization Algorithms_. arXiv:1707.06347.
-
-4. Hafner, D., Pasukonis, J., Ba, J., & Lillicrap, T. (2023). _Mastering Diverse Domains through World Models_. arXiv:2301.04104.
-
-5. Mnih, V., et al. (2015). Human-level control through deep reinforcement learning. _Nature_, 518(7540), 529-533.
-
 ---
 
 ## Ghi chú
